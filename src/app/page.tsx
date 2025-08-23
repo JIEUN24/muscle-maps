@@ -126,7 +126,7 @@ export default function Home() {
             더 건강하고 효과적인 운동을 위한 근육 해부학 가이드
           </p>
           <p className="text-gray-500 text-xs mt-4">
-            © 2024 근육 지도. 개인 학습 목적으로 제작된 교육용 사이트입니다.
+            © 2025 근육 지도. 개인 학습 목적으로 제작된 교육용 사이트입니다.
           </p>
         </div>
       </footer>
